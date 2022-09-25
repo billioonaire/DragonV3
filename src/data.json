@@ -1,0 +1,29 @@
+{
+  "Public": {
+    "cost": "0.0169",
+    "whitelist": [
+      "0xC001497D8E0A5f72dd1E6f0ade8b1a16b4f7d080"
+    ]
+  },
+  "VIP": {
+    "cost": "0.0169",
+    "whitelist": [
+      "0xC001497D8E0A5f72dd1E6f0ade8b1a16b4f7d080",
+      "0xC001497D8E0A5f72dd1E6f0ade8b1a16b4f7d080",
+      "0xC001497D8E0A5f72dd1E6f0ade8b1a16b4f7d080",
+      "0x203794f006E1fbB7F484dfD9Bb8eD765d19bc6ea",
+      "0x2EF22eB69f934fD526092417637aA199eA26ecCe"
+    ]
+  },
+  "Whitelist": {
+    "cost": "0.0169",
+    "whitelist": [
+      "0xC001497D8E0A5f72dd1E6f0ade8b1a16b4f7d080",
+      "0xC001497D8E0A5f72dd1E6f0ade8b1a16b4f7d080",
+      "0xC001497D8E0A5f72dd1E6f0ade8b1a16b4f7d080",
+      "0x203794f006E1fbB7F484dfD9Bb8eD765d19bc6ea",
+      "0x2EF22eB69f934fD526092417637aA199eA26ecCe"
+    ]
+  }
+
+}
