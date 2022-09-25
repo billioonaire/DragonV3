@@ -42,7 +42,7 @@ let contract: any;
 let maxMint: number;
 let minMint: number = 1;
 
-const publicMint = true;
+const publicMint = false;
 
 const { MerkleTree } = require("merkletreejs");
 const keccak256 = require("keccak256");
