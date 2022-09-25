@@ -28,7 +28,7 @@ const Navbar: React.FC = () => {
       <Logo src={LogoImg} />
       <WalletAddress className={walletValue ? 'active' : ''}><WalletPrefix>Connected Wallet: </WalletPrefix>{walletAddress}</WalletAddress>
       <LinkContainer>
-        <Redirect href='https://twitter.com' target='_blank'>
+        <Redirect href='https://twitter.com/DragonDeezNFT' target='_blank'>
           <Link src={TwitterImg}
             onMouseEnter={(x) => (x.currentTarget.src = TwitterHover)}
             onMouseLeave={(x) => (x.currentTarget.src = TwitterImg)}
