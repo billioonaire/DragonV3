@@ -1,12 +1,12 @@
 {
   "Public": {
-    "cost": "0.012",
+    "cost": "0.000",
     "whitelist": [
       "0xC001497D8E0A5f72dd1E6f0ade8b1a16b4f7d080"
     ]
   },
   "VIP": {
-    "cost": "0.012",
+    "cost": "0.000",
     "whitelist": [
     "0x5eD82129A69932182D74d36A882D4122238F6B54",
     "0x01180F770161351e946f6665befA13beb56898fA",
@@ -986,7 +986,7 @@
     ]
   },
   "Whitelist": {
-    "cost": "0.012",
+    "cost": "0.000",
     "whitelist": [
     "0xd4d72fd464eFdaD8c54503a8a5c4372CF9EFbD2F",
     "0x34f4799B3137F923d272b809b8b23C7CA741DE26",
