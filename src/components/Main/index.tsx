@@ -47,7 +47,7 @@ const publicMint = false;
 const { MerkleTree } = require("merkletreejs");
 const keccak256 = require("keccak256");
 
-const CONTRACT_ADDRESS = "0x4BE2Af24C23948fD4f3D60D26237e2CF11f6Ee3B";
+const CONTRACT_ADDRESS = "0x838634Be570F3f68b9bfeb0C0ae791e844bDF0B6";
 
 window.Buffer = window.Buffer || Buffer;
 
