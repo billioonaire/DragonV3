@@ -34,7 +34,7 @@ const Navbar: React.FC = () => {
             onMouseLeave={(x) => (x.currentTarget.src = TwitterImg)}
           />
         </Redirect>
-        <Redirect href='https://opensea.com' target='_blank'>
+        <Redirect href='https://opensea.io/collection/dragondeeznft' target='_blank'>
           <Link src={OpenSeaImg}
             onMouseEnter={(x) => (x.currentTarget.src = OpenSeaHover)}
             onMouseLeave={(x) => (x.currentTarget.src = OpenSeaImg)}
